@@ -1,0 +1,15 @@
+Instrucciones para uso del Fingerprint Matching:
+
+1. Descargar el archivo "FingerprintMatching.rar".
+
+2. Descomprimir todo el contenido del archivo.
+
+3. Debe tener instalado en el sistema el software MATLAB con versión mínima 2018a.
+
+4. Una vez ejecutado MATLAB, abrir el archivo "interfaz.m" y correr el codigo.
+
+OPCIONAL. En caso de salir una ventana emergente con el mensaje: 
+
+"MATLAB cannot run this file because ...interfaz.m shadows it in the current working folder. To run this file, you must change the MATLAB current folder"
+
+Seleccionar la opción "Change Folder".
